@@ -50,3 +50,5 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+accessInfo.txt
+FlutterApp/standup_detection_app/android/app/google-services.json
